@@ -1,4 +1,4 @@
-Solar Power Prediction Project
+Solar Power Prediction Project:
 This project predicts solar power output using three machine learning models: XGBoost, MLP (Neural Network), and CatBoost. The models use weather and time data to predict power output in watts for a solar panel system with a maximum capacity of 1536 watts. The data is based on 15-minute intervals from April 3, 2024, to January 21, 2025.
 Results Summary
 We measure the performance of the models using Mean Absolute Percentage Error (MAPE). MAPE shows how accurate the predictions are compared to actual values, focusing on daytime data (when power is greater than 1 watt).
