@@ -30,3 +30,4 @@ Performance is evaluated using **Mean Absolute Percentage Error (MAPE)**, focusi
 
 1. Clone the repository:
    ```bash
+    https://github.com/Wakiloo7/Solar-Power-Prediction-Project.git
